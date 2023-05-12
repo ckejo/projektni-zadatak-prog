@@ -1,0 +1,17 @@
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\prog-projektni-base64.csproj.AssemblyReference.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\prog_projektni_base64.Form1.resources
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\prog-projektni-base64.csproj.GenerateResource.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\prog-projektni-base64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\prog-projektni-base64.AssemblyInfoInputs.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\prog-projektni-base64.AssemblyInfo.cs
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\prog-projektni-base64.csproj.CoreCompileInputs.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\bin\Debug\net7.0-windows\prog-projektni-base64.exe
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\bin\Debug\net7.0-windows\prog-projektni-base64.deps.json
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\bin\Debug\net7.0-windows\prog-projektni-base64.runtimeconfig.json
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\bin\Debug\net7.0-windows\prog-projektni-base64.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\bin\Debug\net7.0-windows\prog-projektni-base64.pdb
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\prog-projektni-base64.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\refint\prog-projektni-base64.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\prog-projektni-base64.pdb
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\prog-projektni-base64.genruntimeconfig.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-base64\obj\Debug\net7.0-windows\ref\prog-projektni-base64.dll
