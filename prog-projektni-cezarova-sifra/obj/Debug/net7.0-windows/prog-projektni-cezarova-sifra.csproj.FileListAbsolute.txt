@@ -1,0 +1,17 @@
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\bin\Debug\net7.0-windows\prog-projektni-cezarova-sifra.exe
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\bin\Debug\net7.0-windows\prog-projektni-cezarova-sifra.deps.json
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\bin\Debug\net7.0-windows\prog-projektni-cezarova-sifra.runtimeconfig.json
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\bin\Debug\net7.0-windows\prog-projektni-cezarova-sifra.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\bin\Debug\net7.0-windows\prog-projektni-cezarova-sifra.pdb
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\prog-projektni-cezarova-sifra.csproj.AssemblyReference.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\prog_projektni.Form1.resources
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\prog-projektni-cezarova-sifra.csproj.GenerateResource.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\prog-projektni-cezarova-sifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\prog-projektni-cezarova-sifra.AssemblyInfoInputs.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\prog-projektni-cezarova-sifra.AssemblyInfo.cs
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\prog-projektni-cezarova-sifra.csproj.CoreCompileInputs.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\prog-projektni-cezarova-sifra.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\refint\prog-projektni-cezarova-sifra.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\prog-projektni-cezarova-sifra.pdb
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\prog-projektni-cezarova-sifra.genruntimeconfig.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-cezarova-sifra\obj\Debug\net7.0-windows\ref\prog-projektni-cezarova-sifra.dll
