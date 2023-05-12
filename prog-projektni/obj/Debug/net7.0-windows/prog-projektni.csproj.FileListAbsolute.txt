@@ -1,0 +1,17 @@
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\bin\Debug\net7.0-windows\prog-projektni.exe
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\bin\Debug\net7.0-windows\prog-projektni.deps.json
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\bin\Debug\net7.0-windows\prog-projektni.runtimeconfig.json
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\bin\Debug\net7.0-windows\prog-projektni.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\bin\Debug\net7.0-windows\prog-projektni.pdb
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\prog-projektni.csproj.AssemblyReference.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\prog_projektni.Form1.resources
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\prog-projektni.csproj.GenerateResource.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\prog-projektni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\prog-projektni.AssemblyInfoInputs.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\prog-projektni.AssemblyInfo.cs
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\prog-projektni.csproj.CoreCompileInputs.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\prog-projektni.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\refint\prog-projektni.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\prog-projektni.pdb
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\prog-projektni.genruntimeconfig.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni\obj\Debug\net7.0-windows\ref\prog-projektni.dll
