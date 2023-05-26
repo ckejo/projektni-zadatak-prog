@@ -1,0 +1,17 @@
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\bin\Debug\net7.0-windows\prog-projektni-enigma.exe
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\bin\Debug\net7.0-windows\prog-projektni-enigma.deps.json
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\bin\Debug\net7.0-windows\prog-projektni-enigma.runtimeconfig.json
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\bin\Debug\net7.0-windows\prog-projektni-enigma.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\bin\Debug\net7.0-windows\prog-projektni-enigma.pdb
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\prog-projektni-enigma.csproj.AssemblyReference.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\prog_projektni_enigma.Form1.resources
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\prog-projektni-enigma.csproj.GenerateResource.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\prog-projektni-enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\prog-projektni-enigma.AssemblyInfoInputs.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\prog-projektni-enigma.AssemblyInfo.cs
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\prog-projektni-enigma.csproj.CoreCompileInputs.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\prog-projektni-enigma.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\refint\prog-projektni-enigma.dll
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\prog-projektni-enigma.pdb
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\prog-projektni-enigma.genruntimeconfig.cache
+C:\Users\ck3jo\Documents\GitHub\projektni-zadatak-prog\prog-projektni-enigma\obj\Debug\net7.0-windows\ref\prog-projektni-enigma.dll
